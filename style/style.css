@@ -93,7 +93,7 @@ body{
     .order{
         order: -1;
     }
-    .grid-item{
+    .grid_items{
         height: 200px;
     }
     .text{
